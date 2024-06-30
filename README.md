@@ -1,1 +1,2 @@
-# szissette.github.io
+# seth.zissette
+Seth Zissette's Github website

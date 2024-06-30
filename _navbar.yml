@@ -1,0 +1,21 @@
+name: "Seth Zissette"
+title: "Seth Zissette"
+type: inverse
+left:
+  - text: "CV"
+    href: ./Zissette_CV.pdf
+  - text: "Links"
+    menu:
+       - text: "Emory University"
+         href: https://sph.emory.edu/phd-students/profile/index.php?FID=seth-zissette-12964
+       - text: "LinkedIn"
+         href: https://www.linkedin.com/in/seth-zissette
+       - text: "PubMed"
+         href: https://pubmed.ncbi.nlm.nih.gov/?term=Zissette+S
+       - text: "Google Scholar"
+         href: https://scholar.google.com/citations?user=7ffKLfsAAAAJ&hl=en&oi=ao&inst=15365353816232672843
+  - text: "Contact"
+    href: mailto:seth.zissette@emory.edu
+right:
+  - icon: fa-github fa-lg
+    href: https://github.com/szissette/seth.zissette
