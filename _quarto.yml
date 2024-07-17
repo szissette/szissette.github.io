@@ -1,0 +1,37 @@
+project:
+  type: website
+
+website:
+  title: "Seth Zissette"
+  favicon: icon.png
+  navbar:
+    left:
+      - text: "CV"
+        href: ./Zissette_CV.pdf
+      - text: "Links"
+        menu:
+          - text: "Emory University"
+            href: https://sph.emory.edu/phd-students/profile/index.php?FID=seth-zissette-12964
+            target: _blank
+          - text: "LinkedIn"
+            href: https://www.linkedin.com/in/seth-zissette
+            target: _blank
+          - text: "PubMed"
+            href: https://pubmed.ncbi.nlm.nih.gov/?term=Zissette+S
+            target: _blank
+          - text: "Google Scholar"
+            href: https://scholar.google.com/citations?user=7ffKLfsAAAAJ&hl=en&oi=ao&inst=15365353816232672843
+            target: _blank
+      - text: "Contact"
+        href: mailto:seth.zissette@emory.edu
+
+format:
+  html:
+    theme:
+      light: cerulean
+      dark: superhero
+    css: styles.css
+    toc: true
+
+editor: visual
+
