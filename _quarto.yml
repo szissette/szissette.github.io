@@ -8,6 +8,7 @@ website:
     left:
       - text: "CV"
         href: ./Zissette_CV.pdf
+        target: _blank
       - text: "Links"
         menu:
           - text: "Emory University"
