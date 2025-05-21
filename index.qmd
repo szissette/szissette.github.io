@@ -1,8 +1,8 @@
 ---
 title: "Seth Zissette"
 about:
-  template: jolla
-  image: website.jpg
+  template: trestles
+  image: website_v2.jpg
 ---
 
 I am a Doctoral Candidate in the Department of Epidemiology at Emory University’s Rollins School of Public Health. My research is focused on infectious disease epidemiology, particularly HIV and tuberculosis epidemiology, and applications of causal inference. I have a background in public health and medical anthropology, with specific training and expertise in epidemiological research design; statistical, geospatial, and qualitative analysis; and cognitive assessment/scale development. I have experience in HIV/AIDS and TB prevention and treatment, causal inference methods, and the application of geographic information systems (GIS) and spatial statistics to public health.
