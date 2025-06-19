@@ -25,6 +25,8 @@ website:
             target: _blank
       - text: "Contact"
         href: mailto:seth.zissette@emory.edu
+      - icon: github
+        href: https://github.com/szissette/
 
 format:
   html:
