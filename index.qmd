@@ -1,5 +1,5 @@
 ---
-title: "Seth Zissette"
+title: "Seth Zissette, PhD, MS"
 about:
   template: trestles
   image: website_v2.jpg
