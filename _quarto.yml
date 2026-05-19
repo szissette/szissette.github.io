@@ -12,9 +12,6 @@ website:
         target: _blank
       - text: "Links"
         menu:
-          - text: "Emory University"
-            href: https://sph.emory.edu/phd-students/profile/index.php?FID=seth-zissette-12964
-            target: _blank
           - text: "LinkedIn"
             href: https://www.linkedin.com/in/seth-zissette
             target: _blank
